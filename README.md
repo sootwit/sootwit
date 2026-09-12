@@ -6,17 +6,19 @@ solo dev. Minecraft modding, custom languages, and other stuff i find interestin
 
 ### tools i use
 
-![Photopea](https://img.shields.io/badge/Photopea-1D1D1D?style=for-the-badge)
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
-![Krita](https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge&logo=krita&logoColor=white)
-![Blockbench](https://img.shields.io/badge/Blockbench-4D4D4D?style=for-the-badge)
-![IntelliJ IDEA Community](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![MCreator](https://img.shields.io/badge/MCreator-2E86AB?style=for-the-badge)
+[![Photopea](https://img.shields.io/badge/Photopea-219B8D?style=for-the-badge)](#)
+[![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white&style=for-the-badge)](#)
+[![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine&style=for-the-badge)](#)
+[![Krita](https://img.shields.io/badge/Krita-203759?logo=krita&logoColor=EEF37B&style=for-the-badge)](#)
+[![Blockbench](https://img.shields.io/badge/Blockbench-1F86C2?style=for-the-badge)](#)
+[![IntelliJ IDEA Community Edition](https://img.shields.io/badge/INTELLIJ%20IDEA%20COMMUNITY-000000.svg?logo=intellij-idea&logoColor=white&style=for-the-badge)](#)
+![MCreator](https://img.shields.io/badge/MCreator-90B848?style=for-the-badge)
 ![OpenCode](https://img.shields.io/badge/OpenCode-24292E?style=for-the-badge)
 
 > MCreator: textures
 > 
 > OpenCode: coding support & bug checks
+
 
 ---
 
