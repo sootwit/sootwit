@@ -6,9 +6,9 @@ profile picture from [Create Fandom](https://create.fandom.com/wiki/Create_Addon
 
 ---
 
-### tools i use
+### what i use
 
-[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)](#)
+[![Arch + Hyprland + Caelestia](https://img.shields.io/badge/Arch_Linux-Hyprland_%7C_Caelestia-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](#)
 
 [![Photopea](https://img.shields.io/badge/Photopea-219B8D?style=for-the-badge)](#)
 [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white&style=for-the-badge)](#)
