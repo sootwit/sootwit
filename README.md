@@ -2,6 +2,8 @@
 
 solo dev. Minecraft modding, custom languages, and other stuff i find interesting.
 
+profile picture from [Create Fandom](https://create.fandom.com/wiki/Create_Addon_Mods)
+
 ---
 
 ### tools i use
@@ -30,4 +32,3 @@ solo dev. Minecraft modding, custom languages, and other stuff i find interestin
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white&style=for-the-badge)](#)
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)](#)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white&style=for-the-badge)](#)
-
