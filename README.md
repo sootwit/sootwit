@@ -8,7 +8,7 @@ profile picture from [Create Fandom](https://create.fandom.com/wiki/Create_Addon
 
 ### what i use
 
-[![Arch + Hyprland + Caelestia](https://img.shields.io/badge/Arch_Linux-Hyprland_%7C_Caelestia-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](#)
+<a href="#"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/><img src="https://img.shields.io/badge/Hyprland-07CAC3?style=for-the-badge&logo=hyprland&logoColor=white"/></a>
 
 [![Photopea](https://img.shields.io/badge/Photopea-219B8D?style=for-the-badge)](#)
 [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white&style=for-the-badge)](#)
