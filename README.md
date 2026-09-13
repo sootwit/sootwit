@@ -1,6 +1,6 @@
 # hey, i'm sootwit 👋
 
-solo dev. Minecraft modding, custom languages, and other stuff i find interesting.
+solo dev. Minecraft modding and other stuff i find interesting.
 
 profile picture from [Create Fandom](https://create.fandom.com/wiki/Create_Addon_Mods)
 
