@@ -23,11 +23,6 @@ profile picture from [Create Fandom](https://create.fandom.com/wiki/Create_Addon
 > 
 > OpenCode: coding support & bug checks
 
-
----
-
-### languages i know
-
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)](#)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white&style=for-the-badge)](#)
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)](#)
